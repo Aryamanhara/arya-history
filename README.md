@@ -1,6 +1,19 @@
 # Arya History (आर्य इतिहास) 📜
 
-**Arya History** is an Android application built with **Jetpack Compose**, **Kotlin**, and **Material Design 3**, designed for students from **Class 5 to 12 (NCERT)** and competitive exam aspirants.
+[![Download APK](https://img.shields.io/badge/Download-AryaHistory--v1.0.apk-2E7D32?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Aryamanhara/arya-history/releases/download/v1.0.0/AryaHistory-v1.0.apk)
+[![Release](https://img.shields.io/github/v/release/Aryamanhara/arya-history?style=for-the-badge&color=C59B27)](https://github.com/Aryamanhara/arya-history/releases/tag/v1.0.0)
+
+**Arya History** is a comprehensive educational Android application built with **Jetpack Compose**, **Kotlin**, and **Material Design 3**, designed for students from **Class 5 to 12 (NCERT)** and competitive exam aspirants.
+
+## 📱 Direct APK Download
+
+You can directly download and install the app on your Android smartphone:
+
+👉 **[Download AryaHistory-v1.0.apk (Direct Download)](https://github.com/Aryamanhara/arya-history/releases/download/v1.0.0/AryaHistory-v1.0.apk)**
+
+Or visit the **[GitHub Releases Page](https://github.com/Aryamanhara/arya-history/releases/tag/v1.0.0)** to view all release assets and changelogs.
+
+---
 
 ## ✨ Key Features
 
@@ -30,7 +43,7 @@
 - **Minimum SDK:** 24 (Android 7.0+)
 - **Target SDK:** 36 (Android 16+)
 
-## 🚀 Getting Started
+## 🚀 Getting Started with Source Code
 
 1. Clone the repository:
    ```bash
