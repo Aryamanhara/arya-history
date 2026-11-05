@@ -1,0 +1,6 @@
+{
+  "name": "Arya History",
+  "description": "NCERT Class 5 to 12 History comprehensive chapter notes, 80-question revision quizzes with in-depth explanations, 500-question Sampurna History mega question bank, and performance progress analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
